@@ -5,5 +5,6 @@
 <h1 align="center">Description</h1> 
 <i>In progress till the end of April</i>
 
+<!--
 <h1 align="center">Instructions</h1> 
-<i>In progress till the end of April</i>
+-->

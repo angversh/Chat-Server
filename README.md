@@ -1,1 +1,1 @@
-<h1 align="center">Chatter Box</h1> 
+<h1 align="center">Chat Server</h1> 

@@ -114,7 +114,7 @@ int main()
 			processMessage(ws, message);
 		},
 
-		.close = [](auto *ws, int code, string_view message) { //3 FUNCTION: текст об откл. пользователя;
+		.close = [](auto *ws, int code, string_view message) { 
 			UserData* data = ws->getUserData();
 
 			cout << "User disconnected ID : " << data->userId << endl;
